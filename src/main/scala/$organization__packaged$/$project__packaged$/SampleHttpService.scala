@@ -1,4 +1,4 @@
-package org.squbs.sample
+package $organization__packaged$.$project__packaged$
 
 import akka.http.scaladsl.model.HttpEntity.{Chunk, LastChunk}
 import akka.http.scaladsl.model.headers.RawHeader

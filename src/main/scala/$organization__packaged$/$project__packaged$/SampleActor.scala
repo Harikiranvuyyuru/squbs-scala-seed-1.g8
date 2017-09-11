@@ -1,4 +1,4 @@
-package org.squbs.sample
+package $organization__packaged$.$project__packaged$
 
 import akka.actor._
 import akka.stream.scaladsl.Source

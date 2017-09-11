@@ -1,4 +1,4 @@
-package org.squbs.sample
+package $organization__packaged$.$project__packaged$
 
 import akka.actor.ActorSystem
 import org.squbs.metrics.MetricsFlow

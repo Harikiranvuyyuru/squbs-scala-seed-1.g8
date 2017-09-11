@@ -5,10 +5,13 @@
 
 ## Directory-based project format:
 .idea/
+.metadata
+
 # if you remove the above rule, at least ignore the following:
 
 # User-specific stuff:
-# .idea/workspace.xml
+.idea/*
+
 # .idea/tasks.xml
 # .idea/dictionaries
 
@@ -81,6 +84,8 @@ target/
 lib_managed/
 src_managed/
 project/boot/
+project/target/*
+project/project/*
 project/plugins/project/
 
 # Scala-IDE specific

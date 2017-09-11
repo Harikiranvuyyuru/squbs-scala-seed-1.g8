@@ -1,4 +1,4 @@
-package org.squbs.sample
+package $organization__packaged$.$project__packaged$
 
 import akka.actor.{ActorSystem, Props}
 import akka.stream.ActorMaterializer

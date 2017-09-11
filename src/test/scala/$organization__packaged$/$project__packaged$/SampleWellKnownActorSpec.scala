@@ -1,4 +1,4 @@
-package org.squbs.sample
+package $organization__packaged$.$project__packaged$
 
 import akka.testkit.ImplicitSender
 import org.scalatest.{FlatSpecLike, Matchers}
